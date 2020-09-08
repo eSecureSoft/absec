@@ -1,0 +1,27 @@
+.custom-footer {
+  background-color: #1f2024;
+  width: 100%;
+}
+.footer-row {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+.footer-col-header {
+  color: #777777;
+  font-size: 1.7rem;
+  margin-bottom: 15px;
+}
+.footer-col-text {
+  font-size: 1.3rem;
+  color: #d8d8d8;
+  margin-bottom: 5px;
+}
+.footer-col-text a {
+  font-size: 1.3rem;
+  color: #d8d8d8;
+  margin-bottom: 5px;
+}
+.copyright-div {
+  display: flex;
+  justify-content: space-between;
+}
